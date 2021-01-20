@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@angular/cli": "^7.0.3",
-    "gsap": "^2.0.2"
+    "gsap": "^3.6.0"
   }
 }
